@@ -1,3 +1,7 @@
-# Semava
+<p align="center">
+  <img src="https://i.imgur.com/S4NVAQH.jpg" alt="Semava logo"/>
+</p>
 
-Programming language built on Rust
+---
+
+## Language built on Rust 🦀
